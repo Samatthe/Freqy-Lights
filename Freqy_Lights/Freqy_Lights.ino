@@ -1,7 +1,7 @@
 #include <EEPROM.h>
 
 //Abbreviation of school lights will be used at
-//UM = 1    MSU = 2    UD = 3  UMiami = 4  Wayne = 6 TODO no school = 0
+//UM = 1    MSU = 2    UD = 3  UMiami = 4  Wayne = 5 TODO no school = 0
 int school = 1;
 boolean RF = true;
 boolean Debug = false;
